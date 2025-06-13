@@ -1,0 +1,16 @@
+{
+  "name": "flores_amarillas",
+  "version": "1.0.0",
+  "description": "Flores para karelys",
+  "main": "index.js",
+  "repository": "https://github.com/luismarin98/floresamarillas.git",
+  "author": "LuisMArin",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
